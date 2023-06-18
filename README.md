@@ -28,3 +28,6 @@ pages
 - Como o prefetch pode impactar na performance da sua aplicação;
 - Que é possível carregar componentes sob demanda com Dynamic Imports;
 - Adicionar o TypeScript ao seu projeto Next.js e como a tipagem de funções da biblioteca podem te ajudar - durante o desenvolvimento.
+- Criar uma API com Next.js através da pasta pages/api;
+- Carregar componentes sob demanda com Dynamic Imports;
+- Adicionar o TypeScript ao seu projeto Next.js e como a tipagem de funções da biblioteca podem te ajudar durante o desenvolvimento.
